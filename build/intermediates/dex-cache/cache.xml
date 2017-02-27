@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/volley_689810e0c1324938616468408caafc05eb630a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_b237389744c0ee53b95b5eb044532b34f2604b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_42ff5c10756653e545453422c887c2412c945819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_4d09d2b9a92765f7016fa18507ea7b4084ce047d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_a44c39427def8bc20ebcb8f9f3e6fa5c84149637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_2a675ff8199ac3c4e3514bdc80a902e116c5c608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_4482f409944caa9b88e22c93a51bb457e05ce6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_198246a9d1888e524f7aa8841ff6d234f1410b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_d0f29d1dc4113a6dfe0c59b6e4011fa646e77846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_5cb809a38ff1a797e578a4cb39f2ba5f5138c5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_ff3334079f411e25afdec4788e19350a32372863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_1e8892b9c21e7dae5e457bafab9e50da683a5bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_f796fa89facce18742ee944d4749849f754d7d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_7daf672af08931bcd13a23a87183aaf3a7433c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.1.1_7337bafc124136a10a7b37f4add9ef5c9bb8012e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.1.1_851ae229d57bc807865140eae5b6521900d4b60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_a5b81daae75523b7abb8cdf3eb5f5fe063c14ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_d9bbbfa28f98f962ad1213a8254446da9d19272f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/pulkitnarwani/Downloads/xyzreader (1)/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_e190e91279b9aa5b0c3dccfa560375768a43a0c1.jar" />
+    </item>
+
+</items>
