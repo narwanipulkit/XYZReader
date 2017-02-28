@@ -14,14 +14,26 @@
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             android:layout_height="match_parent">
 
-            <ImageView
-                android:id="@+id/photo"
+            <FrameLayout
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/image_size"
-                app:layout_collapseMode="parallax"
-                android:scaleType="centerCrop"
-                android:background="@color/image_background"
-                />
+                android:layout_height="match_parent">
+
+
+                <ImageView
+                    android:id="@+id/photo"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/image_size"
+                    app:layout_collapseMode="parallax"
+                    android:scaleType="centerCrop"
+                    android:background="@color/image_background"
+                    />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/photo_background_protection"
+                    />
+            </FrameLayout>
 
 
             <android.support.v7.widget.Toolbar
@@ -38,27 +50,29 @@
                     android:orientation="vertical"
                     android:layout_height="match_parent">
 
-                <TextView
-                    android:id="@+id/article_title"
-                    style="?android:attr/textAppearanceLarge"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
-                    android:fontFamily="sans-serif-condensed"
-                    android:textColor="@color/text_color"
-                    android:textStyle="bold"
-                    android:textSize="@dimen/detail_title_text_size"
-                    android:lineSpacingMultiplier="0.9" />
 
-                    <TextView
-                        android:id="@+id/article_byline"
-                        android:text="Sample Text"
-                        android:paddingBottom="8dp"
-                        android:layout_gravity="bottom"
-                        style="?android:attr/textAppearanceSmall"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/secondary_text_color" />
+
+                        <TextView
+                            android:id="@+id/article_title"
+                            style="?android:attr/textAppearanceLarge"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
+                            android:fontFamily="sans-serif-condensed"
+                            android:textColor="@color/text_color"
+                            android:textStyle="bold"
+                            android:textSize="@dimen/detail_title_text_size"
+                            android:lineSpacingMultiplier="0.9" />
+
+                            <TextView
+                                android:id="@+id/article_byline"
+                                android:text="Sample Text"
+                                android:paddingBottom="8dp"
+                                android:layout_gravity="bottom"
+                                style="?android:attr/textAppearanceSmall"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/secondary_text_color" />
 
 
                 </LinearLayout>
@@ -102,7 +116,6 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:src="@drawable/ic_share"
-        android:elevation="@dimen/fab_elevation"
         android:contentDescription="@string/action_share" />
 
 
